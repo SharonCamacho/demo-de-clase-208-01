@@ -31,3 +31,9 @@ Este es otro texto. Ejemplo de código en python
 Haga clic [aquí] (https://www.google.com.co/) para ir a google.
 
 Este es otro texto más.
+
+
+## Sección 4
+
+Este texto aparece en Master luego de hacer merge con rama-alterna-2
+    
