@@ -1,6 +1,6 @@
 # demo-de-clase-208-01
 
-Esto es una demostracin de la creaciòn de un repositorio durante la clase
+Esto es una demostracin de la creación de un repositorio durante la clase
 
 Esta es una palabra en **negrita**
 
@@ -26,7 +26,7 @@ Este es otro texto. Ejemplo de código en python
     for i in range(10)
       print(n)
       
-# Sección 3
+## Sección 3
 
 Haga clic [aquí] (https://www.google.com.co/) para ir a google.
 
